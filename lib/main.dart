@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       ],
       child: const MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'WeatherApi',
+        title: 'Weather_Api',
         home: HomeScreen(),
       ),
     );
